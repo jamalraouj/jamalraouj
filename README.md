@@ -4,6 +4,19 @@
 **jamalraouj/jamalraouj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## 🚀 About Me
+My name is jamal raouj i'm 21 years old and i'm java devoloper and now
+ I'm studing in youcode , specialty web devoloper and devlope my skils and thanks...
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://www.linkedin.com/in/jamal-raouj-b127bb1ba/)
+[![twitter](https://twitter.com/Jamal52691372?t=ZpYtBFLuANLjkGv1FAphew&s=09)
+
+## 🛠 Skills
+Javascript, java ,dart , ...
+android studio ,flutter
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
