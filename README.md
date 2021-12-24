@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 My name is jamal raouj i'm 21 years old and i'm java devoloper and now
  I'm studing in youcode , specialty web devoloper and devlope my skils and thanks...
 
-## 🔗 Links
+## 🔗 Links for me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://www.linkedin.com/in/jamal-raouj-b127bb1ba/)
 [![twitter](https://twitter.com/Jamal52691372?t=ZpYtBFLuANLjkGv1FAphew&s=09)
