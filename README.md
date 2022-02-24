@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<--
+<!--
 **jamalraouj/jamalraouj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,8 +27,11 @@ android studio ,flutter
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jamal RAOUJ</h1>
+<h1 align="center">Hi 👋, I'm JAMAL RAOUJ</h1>
 <h3 align="center">A passionate backend developer from Morocco</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamalraouj&label=Profile%20views&color=0e75b6&style=flat" alt="jamalraouj" /> </p>
 
