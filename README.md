@@ -35,8 +35,6 @@ android studio ,flutter
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 
-- 🔭 I’m currently working on [Calculatrice](https://github.com/jamalraouj/calculatrice)
-
 - 🌱 I’m currently learning **Web development**
 
 - 👨‍💻 All of my projects are available at [jamalraouj.com](jamalraouj.com)
